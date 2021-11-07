@@ -1,0 +1,112 @@
+Git e GitHubO que é? Como utilizar?
+PIXEL Cybermeeting
+Orientador:
+Autor:
+Dr. Carlos Alex S. J. Gulo
+Jeniffer Larissa Zanella Luz 
+
+Agenda
+ Introdução
+ Funcionalidades
+ Recursos
+ Referências
+
+
+
+
+
+
+Introdução
+Git - o que é? Pra quê serve?
+
+ Repositório de trabalho -  online e local.
+ Código aberto.
+ Mantêm o trabalho atualizado.
+
+
+
+
+
+
+
+Introdução
+Git - o que é?  Vantagens?
+
+ Versionamento.
+ Trabalho em equipe em tempo real.
+
+
+
+
+
+
+
+
+Funcionalidades
+Branches - Ramificações do código
+
+Trabalho em equipe em tempo real - cada um trabalha no seu “galho” e o repositório “junta as peças”.
+Precisa adicionar ou alterar algo no código mas não tem certeza se é uma boa idéia? Os branches podem ser modificados sem interferir no código principal.
+Pode ser local ou remoto - mesmo em equipe, só você modifica sua parte. 
+
+
+
+
+Funcionalidades
+Versionamento.
+
+ Centralizado - todos os commits “se juntam” em um ponto só. 
+Distribuido - são feitas várias versões diferentes que são salvas por completo e “não mescladas”.
+Permite que se continue o trabalho em máquinas variadas.
+
+
+
+
+
+Funcionalidades
+
+
+
+
+Funcionalidades
+
+Recursos
+Git Desktop 
+Integração com VSCode
+Interface intuitiva - mais fácil que o tradicional em Terminal para iniciantes. 
+Git SCM (Source Code Management) disponível 
+
+
+
+
+Funcionalidades
+Oh My….Git?
+
+
+
+fonte: terminal root
+
+Funcionalidades
+Jogo gratuito e open source para aprender a usar o Git. 
+Disponível em Windows, Linux e macOS
+https://ohmygit.org/
+
+fonte: terminal root
+
+Funcionalidades
+fonte: terminal root
+
+CARNES, Beau. Git for Professionals – Free Version Control Course. freeCodeCamp. 2021. Disponível em: https://www.freecodecamp.org/news/git-for-professionals/  Acesso em: 27 de Outubro de 2021
+
+FERNANDES, Diego. Git & Github: O que é? Por que? Como iniciar? Rocketseat Blog. 2018. Disponível em: https://blog.rocketseat.com.br/iniciando-com-git-github/ Acesso em: 02 de Outubro de 2020.
+
+GUANABARA, Gustavo. Curso de Git & Github: grátis, prático e sem usar comandos no terminal. Curso em Vídeo. 2020. Disponível em: https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA  Acesso em: 29 de Setembro de 2020.
+
+OLIVEIRA, Marcos. Aprenda Git com esse Game Open Source. TerminalRoot. 2021. Disponível em: https://terminalroot.com.br/2021/04/aprenda-git-com-esse-game-open-source.html Acesso em: 28 de Outubro de 2021 
+Referências
+13
+
+Obrigada
+
+Jeniffer Luz 
+ jeniffer.luz@unemat.br
